@@ -1,0 +1,107 @@
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    
+}
+    
+
+/* tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .left-side {
+  height: auto;
+  position: relative;
+  width: auto;
+}
+.copyright-area {
+  padding-bottom: 10px;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+.logo {
+  margin: 0 0 50px;
+  padding: 50px;
+  position: relative;
+}
+.social-link {
+  bottom: 0;
+  margin-bottom: 20px;
+  position: relative;
+  width: auto;
+  margin-top: 25px;
+}
+.right-side {
+  display: block;
+  height: auto;
+  margin-left: 0;
+  padding: 50px 10px;
+  position: relative;
+  width: auto;
+}
+.right-side-wrap {
+  padding: 0;
+}
+.hero-text h1 {
+  font-size: 40px;
+  line-height: 40px;
+}
+
+
+}
+
+    
+    
+/* Small Mobile :320px. */
+
+@media (max-width: 767px) {
+.left-side {
+  height: auto;
+  position: relative;
+  width: auto;
+}
+.copyright-area {
+  padding-bottom: 10px;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+.logo {
+  margin: 0 0 50px;
+  padding: 50px;
+  position: relative;
+}
+.social-link {
+  bottom: 0;
+  margin-bottom: 20px;
+  position: relative;
+  width: auto;
+  margin-top: 25px;
+}
+.right-side {
+  display: block;
+  height: auto;
+  margin-left: 0;
+  padding: 50px 10px;
+  position: relative;
+  width: auto;
+}
+.right-side-wrap {
+  padding: 0;
+}
+.hero-text h1 {
+  font-size: 40px;
+  line-height: 40px;
+}
+
+
+}
+    
+    
+    
+/* Large Mobile :480px. */
+@media (min-width: 480px) and (max-width: 767px) {
+
+
+}
